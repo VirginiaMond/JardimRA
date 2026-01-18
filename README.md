@@ -1,4 +1,4 @@
-# JardimAR - Aplicativo de realidade aumentada para jardinagem
+# JardimRA - Aplicativo de realidade aumentada para jardinagem
 
 ## Autoria
 Desenvolvido por:  
