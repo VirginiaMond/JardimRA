@@ -1,4 +1,4 @@
-# GardenAR - Aplicativo de AR para jardinagem
+# JardimAR - Aplicativo de RA para jardinagem
 
 ## Autoria
 Desenvolvido por:  
