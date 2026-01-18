@@ -1,4 +1,4 @@
-# JardimAR - Aplicativo de RA para jardinagem
+# JardimAR - Aplicativo de realidade aumentada para jardinagem
 
 ## Autoria
 Desenvolvido por:  
@@ -6,7 +6,7 @@ Yasmin Cantanhede Santos e Virgínia Maria Mondêgo Ferreira
 Data: Janeiro/2026
 
 ## Resumo do projeto
-Aplicativo móvel Android desenvolvido para a disciplina de Computação Gráfica do curso de Engenharia da Computação/UFMA. O objetivo é auxiliar na visualização de jardinagem, permitindo que o usuário insira modelos 3D de plantas (como cactos,árvore e flores) no ambiente real antes do plantio, utilizando a câmera do celular.
+Aplicativo móvel Android desenvolvido para a disciplina de Computação Gráfica ministrada pelo Prof°. Dr° Haroldo Gomes Barroso Filho, do curso de Engenharia da Computação/UFMA. O objetivo é auxiliar na visualização de jardinagem, permitindo que o usuário insira modelos 3D de plantas (como cactos,árvore e flores) no ambiente real antes do plantio, utilizando a câmera do celular.
 
 ## Instruções de uso
 1. Instale o arquivo .apk em um dispositivo Android compatível.
