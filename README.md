@@ -6,7 +6,7 @@ Yasmin Cantanhede Santos e Virgínia Maria Mondêgo Ferreira
 Data: Janeiro/2026
 
 ## Resumo do projeto
-Aplicativo móvel Android desenvolvido para a disciplina de Computação Gráfica ministrada pelo Prof°. Dr° Haroldo Gomes Barroso Filho, do curso de Engenharia da Computação/UFMA. O objetivo é auxiliar na visualização de jardinagem, permitindo que o usuário insira modelos 3D de plantas (como cactos,árvore e flores) no ambiente real antes do plantio, utilizando a câmera do celular.
+Aplicativo móvel Android desenvolvido para a disciplina de Computação Gráfica ministrada pelo Prof°. Dr°. Haroldo Gomes Barroso Filho, do curso de Engenharia da Computação/UFMA. O objetivo é auxiliar na visualização de jardinagem, permitindo que o usuário insira modelos 3D de plantas (como cactos,árvore e flores) no ambiente real antes do plantio, utilizando a câmera do celular.
 
 ## Instruções de uso
 1. Instale o arquivo .apk em um dispositivo Android compatível.
@@ -27,8 +27,8 @@ Aplicativo móvel Android desenvolvido para a disciplina de Computação Gráfic
 - Assets 3D: "Pandazole Nature Environment" (Unity Asset Store).
 
 
-# Tutorial completo: Projeto GardenAR
-Este documento resume todo o desenvolvimento do aplicativo GardenAR, resultando em um aplicativo de realidade aumentada, otimizado para dispositivos Android modernos, com interface funcional (botão de troca de itens e botão de remoção) e interação com objetos 3D.
+# Tutorial completo: Projeto JardimRA
+Este documento resume todo o desenvolvimento do aplicativo JardimRA, resultando em um aplicativo de realidade aumentada, otimizado para dispositivos Android modernos, com interface funcional (botão de troca de itens e botão de remoção) e interação com objetos 3D.
 ### 1. O script principal
 
 No Unity, criamos um script C# chamado `Plantador`.
@@ -87,8 +87,8 @@ Caminho usado:
 `Edit > Project Settings > Player > Android > Other Settings`
 
 **Graphics APIs:**
-- Desmarcamos *Auto Graphics API*.
-- Removemos Vulkan, mantendo apenas OpenGLES3.
+- Desmarcou-se *Auto Graphics API*.
+- Removeu-se Vulkan, mantendo apenas OpenGLES3.
 
 **Minimum API Level:**
 - Definiu-se como Android 7.0 'Nougat' (API Level 24) ou superior.
