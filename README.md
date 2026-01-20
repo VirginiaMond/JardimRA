@@ -5,7 +5,7 @@ Desenvolvido por:
 Yasmin Cantanhede Santos e Virgínia Maria Mondêgo Ferreira  
 Data: Janeiro/2026
 
-## Resumo do projeto
+## Resumo do protótipo
 Aplicativo móvel Android desenvolvido para a disciplina de Computação Gráfica ministrada pelo Prof°. Dr°. Haroldo Gomes Barroso Filho, do curso de Engenharia da Computação/UFMA. O objetivo é auxiliar na visualização de jardinagem, permitindo que o usuário insira modelos 3D de plantas (como cactos,árvore e flores) no ambiente real antes do plantio, utilizando a câmera do celular.
 
 ## Instruções de uso
@@ -27,7 +27,7 @@ Aplicativo móvel Android desenvolvido para a disciplina de Computação Gráfic
 - Assets 3D: "Pandazole Nature Environment" (Unity Asset Store).
 
 
-# Tutorial completo: Projeto JardimRA
+# Tutorial completo: Protótipo JardimRA
 Este documento resume todo o desenvolvimento do aplicativo JardimRA, resultando em um aplicativo de realidade aumentada, otimizado para dispositivos Android modernos, com interface funcional (botão de troca de itens e botão de remoção) e interação com objetos 3D.
 ### 1. O script principal
 
